@@ -1,4 +1,4 @@
-import { GalleryItem } from './ImageGalleryItem.stuled';
+import { GalleryItem } from './ImageGalleryItem.styled';
 
 export default function ImageGalleryItem({ data, openModal }) {
   return (
